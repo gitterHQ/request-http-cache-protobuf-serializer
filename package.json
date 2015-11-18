@@ -1,6 +1,6 @@
 {
   "name": "request-http-cache-protobuf-serializer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Protobuf serialization for request-extensible",
   "main": "lib/protobuf-serializer.js",
   "repository": {
