@@ -1,0 +1,25 @@
+{
+  "name": "request-http-cache-protobuf-serializer",
+  "version": "0.1.0",
+  "description": "Protobuf serialization for request-extensible",
+  "main": "lib/protobuf-serializer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitterHQ/request-http-cache-protobuf-serializer.git"
+  },
+  "keywords": [
+    "request-http-cache",
+    "protobuf",
+    "serializer"
+  ],
+  "author": "Andrew Newdigate <andrewn@datatribe.net> (http://about.me/andrewnewdigate)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitterHQ/request-http-cache-protobuf-serializer/issues"
+  },
+  "homepage": "https://github.com/gitterHQ/request-http-cache-protobuf-serializer",
+  "dependencies": {
+    "debug": "^2.1.2",
+    "protobuf": "^0.11.0"
+  }
+}
